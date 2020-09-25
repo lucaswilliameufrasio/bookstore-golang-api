@@ -5,7 +5,7 @@ build:
 
 ## Run development server
 run:
-	$ go run main.go
+	$ go run internals/main.go
 .PHONY: run'
 
 ## Start compiled app
